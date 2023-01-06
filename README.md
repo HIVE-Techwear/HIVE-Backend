@@ -3,9 +3,8 @@
 Hive-Techwear project, with a frontend built in React & Redux and a backend built in Django API.
 ```
 ## Live Demo
-Check out [FRONTEND LIVE DEMO]() here!!
-
-Check out [API LIVE DEMO]() here!!
+Check out [FRONTEND LIVE DEMO](https://hive-frontend.hive-techwear.repl.co/) here!!
+Check out [API LIVE DEMO](https://hive-backend.hive-techwear.repl.co/) here!!
 ## Tech used
 ```
 * Frontend : React & Redux
