@@ -33,7 +33,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['*']
 CORS_ALLOW_ALL_ORIGINS = True
-
+CORS_ALLOWED_ORIGINS = ['https://0.0.0.0:3000', 'https://127.0.0.1:8000']
 
 # Application definition
 
@@ -98,7 +98,7 @@ DATABASES = {
          'NAME': BASE_DIR / 'db.sqlite3',
      }
 }
-django_heroku.settings(locals())
+
 # Password validation
 # https://docs.djangoproject.com/en/3.2/ref/settings/#auth-password-validators
 
